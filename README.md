@@ -1,3 +1,5 @@
+**더 이상 업데이트되지 않는 레포입니다.**
+
 # freepaint
 
 To install dependencies:
